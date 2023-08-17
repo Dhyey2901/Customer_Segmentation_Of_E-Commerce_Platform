@@ -1,0 +1,316 @@
+[
+  {
+    "Order Information": {
+      "Order ID": 5460126662973,
+      "Order Number": 18720,
+      "Order Status": "Paid",
+      "Payment Gateway": "myshop_payments",
+      "Currency": "USD",
+      "Total Price": "$12.60",
+      "Total Shipping Price": "$3.00",
+      "Total Tax": "$0.00",
+      "Total Discounts": "$0.00",
+      "Total Weight": "170 grams",
+      "Created At": "2023-06-05",
+      "Updated At": "2023-07-27"
+    },
+    "Customer Information": {
+      "Customer ID": 7204351082813,
+      "First Name": null,
+      "Last Name": null,
+      "Email": "abcd@gmail.com",
+      "Phone": null,
+      "Default Address": null
+    },
+    "Billing and Shipping Address": {
+      "First Name": null,
+      "Last Name": null,
+      "Address": null
+    },
+    "Product Line Items": []
+  },
+  {
+    "Order Information": {
+      "Order ID": 5366220521789,
+      "Order Number": 17492,
+      "Order Status": "Paid and Fulfilled",
+      "Payment Gateway": "myshop_payments",
+      "Currency": "USD",
+      "Total Price": "$27.00",
+      "Total Shipping Price": "$3.00",
+      "Total Tax": "$0.00",
+      "Total Discounts": "$0.00",
+      "Total Weight": "0 grams",
+      "Created At": "2023-06-05",
+      "Updated At": null
+    },
+    "Customer Information": {
+      "Customer ID": 7031637147965,
+      "First Name": "Vipul",
+      "Last Name": "Dabhi",
+      "Email": "pqr@gmail.com",
+      "Phone": "01622 671568",
+      "Default Address": "8 St Philips Avenue, Maidstone, England, ME15 7SN, United Kingdom"
+    },
+    "Billing and Shipping Address": {
+      "First Name": "Vipul",
+      "Last Name": "Dabhi",
+      "Address": "DDU, Nadiad, Gujarat, India, 387001"
+    },
+    "Product Line Items": [
+      {
+        "Product": {
+          "Name": "check folk dress - reversible - 12-18 Months",
+          "Price": "$12.00",
+          "Quantity": 1,
+          "Vendor": "Lilly + Sid",
+          "Fulfillment Status": "Fulfilled"
+        }
+      },
+      {
+        "Product": {
+          "Name": "check folk dress - reversible - 2-3 Years",
+          "Price": "$12.00",
+          "Quantity": 1,
+          "Vendor": "Lilly + Sid",
+          "Fulfillment Status": "Fulfilled"
+        }
+      }
+    ],
+    "Fulfillment Details": {
+      "Fulfillment ID": 4749084983613,
+      "Status": "Success",
+      "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+      "Tracking Number": "FF733827725GB",
+      "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827725GB"
+    },
+    "Customer Journey Summary": {
+      "Campaign": "DM_LAL_30thMay",
+      "Content": "DM_LAL2%30thMay",
+      "Medium": "fb Facebook_Mobile_Feed",
+      "Source": "facebook"
+    }
+  },
+  {
+    "Order Information": {
+      "Order ID": 5366146498877,
+      "App ID": 3734029,
+      "Billing Address": {},
+      "Order Status": "Confirmed and paid",
+      "Created At": "2023-06-12",
+      "Total Price": "$36.00",
+      "Total Discounts": "$0.00",
+      "Currency": "USD",
+      "Fulfillment Status": "Fulfilled",
+      "Gateway": "No specific payment gateway mentioned",
+      "Landing Site": "No specific landing site mentioned",
+      "Shipping Address": {},
+      "Subtotal Price": "$36.00",
+      "Tax Lines": "No tax information provided",
+      "Shipping Lines": "Shipping method, such as \"Standard\""
+    },
+    "Customer Information": {
+      "Customer ID": 7052317753661,
+      "First Name": "Harshad",
+      "Last Name": "Prajapati",
+      "Tags": "Joules, joules-prod, Mirakl",
+      "Default Address": {}
+    },
+    "Line Items": [],
+    "Fulfillments": {
+      "Fulfillment ID": 4748992381245,
+      "Fulfillment Status": "Success",
+      "Tracking Information": {},
+      "Line Items": []
+    },
+    "Note Attributes": {},
+    "Source Information": {
+      "Source Name": "Joules",
+      "Source Identifier": "No specific source identifier mentioned"
+    },
+    "Other Information": {
+      "Tags": "Tags associated with the order, including shipping details",
+      "Processed At": "2023-06-05",
+      "Updated At": "2023-06-05",
+      "Total Weight": 0,
+      "Total Price USD": "$44.83",
+      "Total Tax": "$0.00",
+      "Total Tip Received": "$0.00",
+      "Total Outstanding": "$0.00"
+    }
+  },
+  {
+    "Order Information": {
+      "Order ID": 5366220521899,
+      "Order Number": 17560,
+      "Order Status": "Paid and Fulfilled",
+      "Payment Gateway": "myshop_payments",
+      "Currency": "USD",
+      "Total Price": "$32.00",
+      "Total Shipping Price": "$3.00",
+      "Total Tax": "$0.00",
+      "Total Discounts": "$0.00",
+      "Total Weight": "0 grams",
+      "Created At": "2023-06-19",
+      "Updated At": null
+    },
+    "Customer Information": {
+      "Customer ID": 7031637147965,
+      "First Name": "Vipul",
+      "Last Name": "Dabhi",
+      "Email": "pqr@gmail.com",
+      "Phone": "01622 671568",
+      "Default Address": "8 St Philips Avenue, Maidstone, England, ME15 7SN, United Kingdom"
+    },
+    "Billing and Shipping Address": {
+      "First Name": "Vipul",
+      "Last Name": "Dabhi",
+      "Address": "DDU, Nadiad, Gujarat, India, 387001"
+    },
+    "Product Line Items": [
+      {
+        "Product": {
+          "Name": "Traditional dress - reversible - 12-18 Months",
+          "Price": "$15.00",
+          "Quantity": 1,
+          "Vendor": "Jai+Dhyey",
+          "Fulfillment Status": "Fulfilled"
+        }
+      },
+      {
+        "Product": {
+          "Name": "Traditional dress - reversible - 2-3 Years",
+          "Price": "$14.00",
+          "Quantity": 1,
+          "Vendor": "Jai + Dhyey",
+          "Fulfillment Status": "Fulfilled"
+        }
+      }
+    ],
+    "Fulfillment Details": {
+      "Fulfillment ID": 4749084983614,
+      "Status": "Success",
+      "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+      "Tracking Number": "FF733827725GB",
+      "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827725GB"
+    },
+    "Customer Journey Summary": {
+      "Campaign": "DM_LAL_30thMay",
+      "Content": "DM_LAL2%30thMay",
+      "Medium": "fb Facebook_Mobile_Feed",
+      "Source": "facebook"
+    }
+  },
+  {
+    "Order Information": {
+      "Order ID": 5366220521789,
+      "Order Number": 17492,
+      "Order Status": "Paid and Fulfilled",
+      "Payment Gateway": "myshop_payments",
+      "Currency": "USD",
+      "Total Price": "$27.00",
+      "Total Shipping Price": "$3.00",
+      "Total Tax": "$0.00",
+      "Total Discounts": "$0.00",
+      "Total Weight": "0 grams",
+      "Created At": "2023-06-09",
+      "Updated At": null
+    },
+    "Customer Information": {
+      "Customer ID": 7031637147965,
+      "First Name": "Vipul",
+      "Last Name": "Dabhi",
+      "Email": "pqr@gmail.com",
+      "Phone": "01622 671568",
+      "Default Address": "8 St Philips Avenue, Maidstone, England, ME15 7SN, United Kingdom"
+    },
+    "Billing and Shipping Address": {
+      "First Name": "Vipul",
+      "Last Name": "Dabhi",
+      "Address": "DDU, Nadiad, Gujarat, India, 387001"
+    },
+    "Product Line Items": [
+      {
+        "Product": {
+          "Name": "check folk dress - reversible - 12-18 Months",
+          "Price": "$12.00",
+          "Quantity": 1,
+          "Vendor": "Lilly + Sid",
+          "Fulfillment Status": "Fulfilled"
+        }
+      },
+      {
+        "Product": {
+          "Name": "check folk dress - reversible - 2-3 Years",
+          "Price": "$12.00",
+          "Quantity": 1,
+          "Vendor": "Lilly + Sid",
+          "Fulfillment Status": "Fulfilled"
+        }
+      }
+    ],
+    "Fulfillment Details": {
+      "Fulfillment ID": 4749084983613,
+      "Status": "Success",
+      "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+      "Tracking Number": "FF733827725GB",
+      "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827725GB"
+    },
+    "Customer Journey Summary": {
+      "Campaign": "DM_LAL_30thMay",
+      "Content": "DM_LAL2%30thMay",
+      "Medium": "fb Facebook_Mobile_Feed",
+      "Source": "facebook"
+    }
+  },
+  {
+    "Order Information": {
+      "Order ID": 5366146498999,
+      "App ID": 3734029,
+      "Billing Address": {},
+      "Order Status": "Confirmed and paid",
+      "Created At": "2023-07-25",
+      "Total Price": "$40.00",
+      "Total Discounts": "$0.00",
+      "Currency": "USD",
+      "Fulfillment Status": "Fulfilled",
+      "Gateway": "No specific payment gateway mentioned",
+      "Landing Site": "No specific landing site mentioned",
+      "Shipping Address": {},
+      "Subtotal Price": "$40.00",
+      "Tax Lines": "No tax information provided",
+      "Shipping Lines": "Shipping method, such as \"Standard\""
+    },
+    "Customer Information": {
+      "Customer ID": 7052317753661,
+      "First Name": "Harshad",
+      "Last Name": "Prajapati",
+      "Created At": "2023-06-12",
+      "Updated At": "2023-06-12",
+      "Tags": "Joules, joules-prod, Mirakl",
+      "Default Address": {}
+    },
+    "Line Items": [],
+    "Fulfillments": {
+      "Fulfillment ID": 4748992381300,
+      "Fulfillment Status": "Success",
+      "Tracking Information": {},
+      "Line Items": []
+    },
+    "Note Attributes": {},
+    "Source Information": {
+      "Source Name": "Joules",
+      "Source Identifier": "No specific source identifier mentioned"
+    },
+    "Other Information": {
+      "Tags": "Tags associated with the order, including shipping details",
+      "Processed At": "2023-06-12",
+      "Updated At": "2023-06-12",
+      "Total Weight": 0,
+      "Total Price USD": "$44.83",
+      "Total Tax": "$0.00",
+      "Total Tip Received": "$0.00",
+      "Total Outstanding": "$0.00"
+    }
+  }
+]
