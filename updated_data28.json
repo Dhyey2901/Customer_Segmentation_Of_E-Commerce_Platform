@@ -1,0 +1,1723 @@
+[
+    {
+        "Order Information": {
+            "Order ID": 5460126662973,
+            "Order Number": 18720,
+            "Order Status": "Paid",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$3.00",
+            "Total Shipping Price": "$3.00",
+            "Total Tax": "$0.00",
+            "Total Discounts": "$0.00",
+            "Total Weight": "170 grams",
+            "Created At": "2023-06-05",
+            "Updated At": "2023-07-27"
+        },
+        "Customer Information": {
+            "Customer ID": 7204351082813,
+            "First Name": null,
+            "Last Name": null,
+            "Email": "abcd@gmail.com",
+            "Phone": null,
+            "Default Address": null
+        },
+        "Billing and Shipping Address": {
+            "First Name": null,
+            "Last Name": null,
+            "Address": null
+        },
+        "Product Line Items": []
+    },
+    {
+        "Order Information": {
+            "Order ID": 5366220521789,
+            "Order Number": 17492,
+            "Order Status": "Paid and Fulfilled",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$27.00",
+            "Total Shipping Price": "$3.00",
+            "Total Tax": "$0.00",
+            "Total Discounts": "$0.00",
+            "Total Weight": "0 grams",
+            "Created At": "2023-06-05",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7031637147965,
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Email": "pqr@gmail.com",
+            "Phone": "01622 671568",
+            "Default Address": "8 St Philips Avenue, Maidstone, England, ME15 7SN, United Kingdom"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Address": "DDU, Nadiad, Gujarat, India, 387001"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "check folk dress - reversible - 12-18 Months",
+                    "Price": "$12.00",
+                    "Quantity": 1,
+                    "Vendor": "Lilly + Sid",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "check folk dress - reversible - 2-3 Years",
+                    "Price": "$12.00",
+                    "Quantity": 1,
+                    "Vendor": "Lilly + Sid",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 4749084983613,
+            "Status": "Success",
+            "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+            "Tracking Number": "FF733827725GB",
+            "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827725GB"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "DM_LAL_30thMay",
+            "Content": "DM_LAL2%30thMay",
+            "Medium": "fb Facebook_Mobile_Feed",
+            "Source": "facebook"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5366146498999,
+            "Order Number": "17491",
+            "Order Status": "Paid and Fulfilled",
+            "Payment Gateway": "",
+            "Currency": "USD",
+            "Total Price": "44.38",
+            "Total Shipping Price": "0.00",
+            "Total Tax": "0.00",
+            "Total Discounts": "0.00",
+            "Total Weight": "0",
+            "Created At": "2023-07-25",
+            "Updated At": "2023-07-25"
+        },
+        "Customer Information": {
+            "Customer ID": 7052317753661,
+            "First Name": "Harshad",
+            "Last Name": "Prajapati",
+            "Email": null,
+            "Phone": "9126825502",
+            "Default Address": {
+                "id": 9260801163581,
+                "customer_id": 7052317753661,
+                "first_name": "Harshad",
+                "last_name": "Prajapati",
+                "company": null,
+                "address1": "DDU-IT",
+                "address2": "",
+                "city": "Kheda",
+                "country": "India",
+                "zip": "388745",
+                "phone": "9126825502",
+                "name": "Harshad Prajapati",
+                "province_code": "KH",
+                "country_code": "IN",
+                "country_name": "India",
+                "default": true
+            }
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Nina",
+            "Last Name": "Edwards - Shaw",
+            "Address": "10 Flax Mill Cottage, Chancery Lane, Crowle, England, DN17 4HN, United Kingdom"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Rainbow Raincoat - 5-6 Years",
+                    "Price": "36.00",
+                    "Quantity": 1,
+                    "Vendor": "Lilly + Sid",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 4748992381245,
+            "Status": "Success",
+            "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+            "Tracking Number": "FF733827544GB",
+            "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827544GB"
+        },
+        "Customer Journey Summary": {
+            "Campaign": null,
+            "Content": null,
+            "Medium": null,
+            "Source": null
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5366220521899,
+            "Order Number": 17560,
+            "Order Status": "Paid and Fulfilled",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$32.00",
+            "Total Shipping Price": "$3.00",
+            "Total Tax": "$0.00",
+            "Total Discounts": "$0.00",
+            "Total Weight": "0 grams",
+            "Created At": "2023-06-19",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7031637147965,
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Email": "pqr@gmail.com",
+            "Phone": "01622 671568",
+            "Default Address": "8 St Philips Avenue, Maidstone, England, ME15 7SN, United Kingdom"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Address": "DDU, Nadiad, Gujarat, India, 387001"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Traditional dress - reversible - 12-18 Months",
+                    "Price": "$15.00",
+                    "Quantity": 1,
+                    "Vendor": "Jai+Dhyey",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Traditional dress - reversible - 2-3 Years",
+                    "Price": "$14.00",
+                    "Quantity": 1,
+                    "Vendor": "Jai + Dhyey",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 4749084983614,
+            "Status": "Success",
+            "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+            "Tracking Number": "FF733827725GB",
+            "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827725GB"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "DM_LAL_30thMay",
+            "Content": "DM_LAL2%30thMay",
+            "Medium": "fb Facebook_Mobile_Feed",
+            "Source": "facebook"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5366220521789,
+            "Order Number": 17492,
+            "Order Status": "Paid and Fulfilled",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$27.00",
+            "Total Shipping Price": "$3.00",
+            "Total Tax": "$0.00",
+            "Total Discounts": "$0.00",
+            "Total Weight": "0 grams",
+            "Created At": "2023-06-09",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7031637147965,
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Email": "pqr@gmail.com",
+            "Phone": "01622 671568",
+            "Default Address": "8 St Philips Avenue, Maidstone, England, ME15 7SN, United Kingdom"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Address": "DDU, Nadiad, Gujarat, India, 387001"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "check folk dress - reversible - 12-18 Months",
+                    "Price": "$12.00",
+                    "Quantity": 1,
+                    "Vendor": "Lilly + Sid",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "check folk dress - reversible - 2-3 Years",
+                    "Price": "$12.00",
+                    "Quantity": 1,
+                    "Vendor": "Lilly + Sid",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 4749084983613,
+            "Status": "Success",
+            "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+            "Tracking Number": "FF733827725GB",
+            "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827725GB"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "DM_LAL_30thMay",
+            "Content": "DM_LAL2%30thMay",
+            "Medium": "fb Facebook_Mobile_Feed",
+            "Source": "facebook"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5366146498999,
+            "Order Number": "17491",
+            "Order Status": "Paid and Fulfilled",
+            "Payment Gateway": "",
+            "Currency": "USD",
+            "Total Price": "36.00",
+            "Total Shipping Price": "0.00",
+            "Total Tax": "0.00",
+            "Total Discounts": "0.00",
+            "Total Weight": "0",
+            "Created At": "2023-06-05",
+            "Updated At": "2023-06-05"
+        },
+        "Customer Information": {
+            "Customer ID": 7052317753661,
+            "First Name": "Harshad",
+            "Last Name": "Prajapati",
+            "Email": null,
+            "Phone": "9126825502",
+            "Default Address": {
+                "id": 9260801163581,
+                "customer_id": 7052317753661,
+                "first_name": "Harshad",
+                "last_name": "Prajapati",
+                "company": null,
+                "address1": "DDU-IT",
+                "address2": "",
+                "city": "Kheda",
+                "country": "India",
+                "zip": "388745",
+                "phone": "9126825502",
+                "name": "Harshad Prajapati",
+                "province_code": "KH",
+                "country_code": "IN",
+                "country_name": "India",
+                "default": true
+            }
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Nina",
+            "Last Name": "Edwards - Shaw",
+            "Address": "10 Flax Mill Cottage, Chancery Lane, Crowle, England, DN17 4HN, United Kingdom"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Rainbow Raincoat - 5-6 Years",
+                    "Price": "36.00",
+                    "Quantity": 1,
+                    "Vendor": "Lilly + Sid",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 4748992381245,
+            "Status": "Success",
+            "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+            "Tracking Number": "FF733827544GB",
+            "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827544GB"
+        },
+        "Customer Journey Summary": {
+            "Campaign": null,
+            "Content": null,
+            "Medium": null,
+            "Source": null
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 123456789,
+            "Order Number": 98765,
+            "Order Status": "Paid",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$35.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$7.00",
+            "Total Weight": "500 grams",
+            "Created At": "2023-08-09",
+            "Updated At": "2023-08-10"
+        },
+        "Customer Information": {
+            "Customer ID": 987654321,
+            "First Name": "Dhyey",
+            "Last Name": "Vyas",
+            "Email": "dhyey@example.com",
+            "Phone": "123-456-7890",
+            "Default Address": "123 Main St, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Dhyey",
+            "Last Name": "Vyas",
+            "Address": "456 Elm St, Anycity, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Widget A - Small",
+                    "Price": "$10.00",
+                    "Quantity": 2,
+                    "Vendor": "WidgetCo",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Widget B - Large",
+                    "Price": "$15.00",
+                    "Quantity": 1,
+                    "Vendor": "WidgetCo",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 987654321,
+            "Status": "Success",
+            "Tracking Company": "FedEx",
+            "Tracking Number": "FX123456789",
+            "Tracking URL": "http://www.fedex.com/track?trackingnumber=FX123456789"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Summer_Sale_2023",
+            "Content": "SummerSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 123456789,
+            "Order Number": 98765,
+            "Order Status": "Paid",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$95.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$7.00",
+            "Total Weight": "500 grams",
+            "Created At": "2023-08-09",
+            "Updated At": "2023-08-10"
+        },
+        "Customer Information": {
+            "Customer ID": 987654321,
+            "First Name": "Dhyey",
+            "Last Name": "Vyas",
+            "Email": "dhyey@example.com",
+            "Phone": "123-456-7890",
+            "Default Address": "123 Main St, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Dhyey",
+            "Last Name": "Vyas",
+            "Address": "456 Elm St, Anycity, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Widget A - Small",
+                    "Price": "$10.00",
+                    "Quantity": 2,
+                    "Vendor": "WidgetCo",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Widget B - Large",
+                    "Price": "$15.00",
+                    "Quantity": 1,
+                    "Vendor": "WidgetCo",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Gadget X - Blue",
+                    "Price": "$20.00",
+                    "Quantity": 3,
+                    "Vendor": "GadgetCorp",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 987654321,
+            "Status": "Success",
+            "Tracking Company": "FedEx",
+            "Tracking Number": "FX123456789",
+            "Tracking URL": "http://www.fedex.com/track?trackingnumber=FX123456789"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Summer_Sale_2023",
+            "Content": "SummerSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5378123456789,
+            "Order Number": 17561,
+            "Order Status": "Paid and Fulfilled",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$51.50",
+            "Total Shipping Price": "$4.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "250 grams",
+            "Created At": "2023-08-09",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7031637147965,
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Email": "pqr@gmail.com",
+            "Phone": "01622 671568",
+            "Default Address": "8 St Philips Avenue, Maidstone, England, ME15 7SN, United Kingdom"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Vipul",
+            "Last Name": "Dabhi",
+            "Address": "DDU, Nadiad, Gujarat, India, 387001"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Traditional dress - reversible - 12-18 Months",
+                    "Price": "$15.00",
+                    "Quantity": 1,
+                    "Vendor": "Jai+Dhyey",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Traditional dress - reversible - 2-3 Years",
+                    "Price": "$14.00",
+                    "Quantity": 1,
+                    "Vendor": "Jai + Dhyey",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Summer Hat - Blue",
+                    "Price": "$16.00",
+                    "Quantity": 1,
+                    "Vendor": "FashionTrends",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 4749084983614,
+            "Status": "Success",
+            "Tracking Company": "Royal Mail Tracked 48 - No Signature",
+            "Tracking Number": "FF733827725GB",
+            "Tracking URL": "http://www.indianpost.com/trackdetails?trackNumber=FF733827725GB"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "DM_LAL_30thMay",
+            "Content": "DM_LAL2%30thMay",
+            "Medium": "fb Facebook_Mobile_Feed",
+            "Source": "facebook"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5399123456789,
+            "Order Number": 17562,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$57.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "350 grams",
+            "Created At": "2023-08-09",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7050123456789,
+            "First Name": "Jai",
+            "Last Name": "Mehta",
+            "Email": "jai.mehta@example.com",
+            "Phone": "+1234567890",
+            "Default Address": "123 Main Street, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Jai",
+            "Last Name": "Mehta",
+            "Address": "456 Elm Avenue, Somewhere, USA, 54321"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Vintage Leather Backpack",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "RetroGoods",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Antique Brass Pocket Watch",
+                    "Price": "$15.00",
+                    "Quantity": 2,
+                    "Vendor": "TimelessTreasures",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerSale_2023",
+            "Content": "SummerSale_Ad1",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5399123456789,
+            "Order Number": 17562,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$57.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "350 grams",
+            "Created At": "2023-07-04",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7050123456789,
+            "First Name": "Dev",
+            "Last Name": "Desai",
+            "Email": "dev.desai@example.com",
+            "Phone": "+1234567890",
+            "Default Address": "123 Main Street, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Dev",
+            "Last Name": "Desai",
+            "Address": "456 Elm Avenue, Somewhere, USA, 54321"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Vintage Leather Backpack",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "RetroGoods",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Antique Brass Pocket Watch",
+                    "Price": "$15.00",
+                    "Quantity": 2,
+                    "Vendor": "TimelessTreasures",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerSale_2023",
+            "Content": "SummerSale_Ad1",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5399123456790,
+            "Order Number": 17563,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$53.00",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$3.00",
+            "Total Discounts": "$0.00",
+            "Total Weight": "500 grams",
+            "Created At": "2023-07-04",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7050123456789,
+            "First Name": "Dev",
+            "Last Name": "Desai",
+            "Email": "dev.desai@example.com",
+            "Phone": "+1234567890",
+            "Default Address": "123 Main Street, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Dev",
+            "Last Name": "Desai",
+            "Address": "456 Elm Avenue, Somewhere, USA, 54321"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Vintage Leather Backpack",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "RetroGoods",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Classic Fountain Pen",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "ElegantPens",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerSale_2023",
+            "Content": "SummerSale_Ad1",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5399123456789,
+            "Order Number": 17562,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$55.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "350 grams",
+            "Created At": "2023-08-09",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7050123456789,
+            "First Name": "Jai",
+            "Last Name": "Mehta",
+            "Email": "jai.mehta@example.com",
+            "Phone": "+1234567890",
+            "Default Address": "123 Main Street, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Jai",
+            "Last Name": "Mehta",
+            "Address": "456 Elm Avenue, Somewhere, USA, 54321"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Classic Leather Wallet",
+                    "Price": "$30.00",
+                    "Quantity": 1,
+                    "Vendor": "ElegantLeather",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Vintage Fountain Pen",
+                    "Price": "$18.00",
+                    "Quantity": 1,
+                    "Vendor": "TimelessPens",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerSale_2023",
+            "Content": "SummerSale_Ad2",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 5399123456789,
+            "Order Number": 17562,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$82.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "350 grams",
+            "Created At": "2023-07-04",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 7050123456789,
+            "First Name": "Jai",
+            "Last Name": "Mehta",
+            "Email": "jai.mehta@example.com",
+            "Phone": "+1234567890",
+            "Default Address": "123 Main Street, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Jai",
+            "Last Name": "Mehta",
+            "Address": "456 Elm Avenue, Somewhere, USA, 54321"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Leather Messenger Bag",
+                    "Price": "$50.00",
+                    "Quantity": 1,
+                    "Vendor": "UrbanLeather",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Classic Leather Belt",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "ElegantLeather",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerSale_2023",
+            "Content": "SummerSale_Ad3",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 123456789,
+            "Order Number": 98765,
+            "Order Status": "Paid",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$45.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$7.00",
+            "Total Weight": "500 grams",
+            "Created At": "2023-05-20",
+            "Updated At": "2023-08-10"
+        },
+        "Customer Information": {
+            "Customer ID": 987654321,
+            "First Name": "Dhyey",
+            "Last Name": "Vyas",
+            "Email": "dhyey@example.com",
+            "Phone": "123-456-7890",
+            "Default Address": "123 Main St, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Dhyey",
+            "Last Name": "Vyas",
+            "Address": "456 Elm St, Anycity, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Gadget X - Compact",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "GadgetTech",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Gadget Y - Deluxe",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "GadgetTech",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 987654321,
+            "Status": "Success",
+            "Tracking Company": "UPS",
+            "Tracking Number": "UP987654321",
+            "Tracking URL": "http://www.ups.com/track?trackingnumber=UP987654321"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Spring_Sale_2023",
+            "Content": "SpringSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 123456789,
+            "Order Number": 98765,
+            "Order Status": "Paid",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$42.50",
+            "Total Shipping Price": "$5.00",
+            "Total Tax": "$2.50",
+            "Total Discounts": "$7.00",
+            "Total Weight": "500 grams",
+            "Created At": "2023-05-15",
+            "Updated At": "2023-08-10"
+        },
+        "Customer Information": {
+            "Customer ID": 987654321,
+            "First Name": "Manushi",
+            "Last Name": "Dagli",
+            "Email": "manushi@example.com",
+            "Phone": "123-456-7890",
+            "Default Address": "123 Main St, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Manushi",
+            "Last Name": "Dagli",
+            "Address": "456 Elm St, Anycity, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Premium Widget - Small",
+                    "Price": "$12.00",
+                    "Quantity": 2,
+                    "Vendor": "WidgetCo",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Deluxe Widget - Large",
+                    "Price": "$18.00",
+                    "Quantity": 1,
+                    "Vendor": "WidgetCo",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 987654321,
+            "Status": "Success",
+            "Tracking Company": "FedEx",
+            "Tracking Number": "FX123456789",
+            "Tracking URL": "http://www.fedex.com/track?trackingnumber=FX123456789"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Summer_Sale_2023",
+            "Content": "SummerSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 987654321,
+            "Order Number": 98766,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$65.50",
+            "Total Shipping Price": "$7.00",
+            "Total Tax": "$3.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "600 grams",
+            "Created At": "2023-05-15",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 987654321,
+            "First Name": "Manushi",
+            "Last Name": "Dagli",
+            "Email": "manushi@example.com",
+            "Phone": "123-456-7890",
+            "Default Address": "123 Main St, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Manushi",
+            "Last Name": "Dagli",
+            "Address": "456 Elm St, Anycity, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Elegant Necklace",
+                    "Price": "$30.00",
+                    "Quantity": 1,
+                    "Vendor": "JewelEmporium",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Crystal Bracelet",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "JewelEmporium",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Spring_Jewelry_Sale",
+            "Content": "JewelrySale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 987654321,
+            "Order Number": 98767,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$92.25",
+            "Total Shipping Price": "$8.00",
+            "Total Tax": "$4.25",
+            "Total Discounts": "$0.00",
+            "Total Weight": "800 grams",
+            "Created At": "2023-08-09",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 987654321,
+            "First Name": "Manushi",
+            "Last Name": "Dagli",
+            "Email": "manushi@example.com",
+            "Phone": "123-456-7890",
+            "Default Address": "123 Main St, Anytown, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Manushi",
+            "Last Name": "Dagli",
+            "Address": "456 Elm St, Anycity, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Elegant Necklace",
+                    "Price": "$30.00",
+                    "Quantity": 1,
+                    "Vendor": "JewelEmporium",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Crystal Bracelet",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "JewelEmporium",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Glamorous Earrings",
+                    "Price": "$12.50",
+                    "Quantity": 2,
+                    "Vendor": "JewelEmporium",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Summer_Gems_Sale",
+            "Content": "GemsSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 876543210,
+            "Order Number": 98768,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$104.50",
+            "Total Shipping Price": "$6.50",
+            "Total Tax": "$3.00",
+            "Total Discounts": "$0.00",
+            "Total Weight": "650 grams",
+            "Created At": "2023-06-24",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 876543210,
+            "First Name": "Vraj",
+            "Last Name": "Patel",
+            "Email": "vraj@example.com",
+            "Phone": "987-654-3210",
+            "Default Address": "456 Oak Lane, Cityville, USA, 54321"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Vraj",
+            "Last Name": "Patel",
+            "Address": "123 Maple Street, Townsville, USA, 12345"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Classic Leather Wallet",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "LeatherGoodsCo",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Stylish Sunglasses",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "FashionAccessories",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Luxury Fountain Pen",
+                    "Price": "$25.00",
+                    "Quantity": 2,
+                    "Vendor": "WritingEssentials",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Summer_Lifestyle_Sale",
+            "Content": "LifestyleSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 135792468,
+            "Order Number": 98769,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$66.00",
+            "Total Shipping Price": "$7.50",
+            "Total Tax": "$3.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "750 grams",
+            "Created At": "2023-06-24",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 246813579,
+            "First Name": "Parth",
+            "Last Name": "Shah",
+            "Email": "parth@example.com",
+            "Phone": "987-654-3210",
+            "Default Address": "789 Elm Street, Cityville, USA, 54321"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Parth",
+            "Last Name": "Shah",
+            "Address": "456 Oak Lane, Townsville, USA, 12345"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Modern Laptop Backpack",
+                    "Price": "$35.00",
+                    "Quantity": 1,
+                    "Vendor": "TechGear",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Wireless Bluetooth Earbuds",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "AudioTech",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Tech_Summer_Sale",
+            "Content": "TechSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 765432109,
+            "Order Number": 54321,
+            "Order Status": "Paid",
+            "Payment Gateway": "myshop_payments",
+            "Currency": "USD",
+            "Total Price": "$74.00",
+            "Total Shipping Price": "$7.00",
+            "Total Tax": "$4.50",
+            "Total Discounts": "$10.00",
+            "Total Weight": "700 grams",
+            "Created At": "2023-06-24",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 987654321,
+            "First Name": "Vansh",
+            "Last Name": "Shah",
+            "Email": "parth@example.com",
+            "Phone": "987-654-3210",
+            "Default Address": "789 Oak Lane, Cityville, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Vansh",
+            "Last Name": "Shah",
+            "Address": "890 Cedar Road, Townsville, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Wireless Noise-Canceling Headphones",
+                    "Price": "$50.00",
+                    "Quantity": 1,
+                    "Vendor": "SoundWave",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Bluetooth Portable Speaker",
+                    "Price": "$22.50",
+                    "Quantity": 1,
+                    "Vendor": "SoundWave",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 987654321,
+            "Status": "Success",
+            "Tracking Company": "UPS",
+            "Tracking Number": "UP123456789",
+            "Tracking URL": "http://www.ups.com/track?trackingnumber=UP123456789"
+        },
+        "Customer Journey Summary": {
+            "Campaign": "Summer_Tech_Sale_2023",
+            "Content": "TechSale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 246813579,
+            "Order Number": 13579,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$66.50",
+            "Total Shipping Price": "$6.00",
+            "Total Tax": "$5.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "800 grams",
+            "Created At": "2023-07-10",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 369258147,
+            "First Name": "Parth",
+            "Last Name": "Shah",
+            "Email": "parth@example.com",
+            "Phone": "+9876543210",
+            "Default Address": "456 Pine Street, Villageland, USA, 54321"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Parth",
+            "Last Name": "Shah",
+            "Address": "789 Maple Avenue, Townsville, USA, 98765"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Premium Leather Wallet",
+                    "Price": "$30.00",
+                    "Quantity": 1,
+                    "Vendor": "LeatherCraft",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Stainless Steel Watch",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "TimelessWatches",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerFashionSale_2023",
+            "Content": "FashionSale_Ad2",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 246813579,
+            "Order Number": 13579,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$106.50",
+            "Total Shipping Price": "$6.00",
+            "Total Tax": "$5.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "800 grams",
+            "Created At": "2023-07-04",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 369258147,
+            "First Name": "Purvi",
+            "Last Name": "Vyas",
+            "Email": "purvi@example.com",
+            "Phone": "+9876543210",
+            "Default Address": "456 Pine Street, Villageland, USA, 54321"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Purvi",
+            "Last Name": "Vyas",
+            "Address": "789 Maple Avenue, Townsville, USA, 98765"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Premium Leather Wallet",
+                    "Price": "$30.00",
+                    "Quantity": 1,
+                    "Vendor": "LeatherCraft",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Stainless Steel Watch",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "TimelessWatches",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Crystal Pendant Necklace",
+                    "Price": "$40.00",
+                    "Quantity": 1,
+                    "Vendor": "GlamJewels",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerFashionSale_2023",
+            "Content": "FashionSale_Ad2",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 111111,
+            "Order Number": 12345,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$88.50",
+            "Total Shipping Price": "$7.00",
+            "Total Tax": "$6.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "900 grams",
+            "Created At": "2023-05-10",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 222222,
+            "First Name": "Purvi",
+            "Last Name": "Vyas",
+            "Email": "purvi@example.com",
+            "Phone": "+1234567890",
+            "Default Address": "123 Elm Street, Cityville, USA, 54321"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Purvi",
+            "Last Name": "Vyas",
+            "Address": "456 Oak Avenue, Suburbia, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Laptop Backpack",
+                    "Price": "$50.00",
+                    "Quantity": 1,
+                    "Vendor": "TechGear",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Wireless Earbuds",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "AudioTech",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "TechGadgetSale_2023",
+            "Content": "GadgetSale_Ad1",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 222222,
+            "Order Number": 23456,
+            "Order Status": "Paid",
+            "Payment Gateway": "stripe",
+            "Currency": "USD",
+            "Total Price": "$139.00",
+            "Total Shipping Price": "$10.00",
+            "Total Tax": "$9.00",
+            "Total Discounts": "$0.00",
+            "Total Weight": "1500 grams",
+            "Created At": "2023-06-15",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 333333,
+            "First Name": "Dev",
+            "Last Name": "Desai",
+            "Email": "purvi@example.com",
+            "Phone": "+9876543210",
+            "Default Address": "789 Maple Street, Townburg, USA, 98765"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Dev",
+            "Last Name": "Desai",
+            "Address": "456 Pine Avenue, Citytown, USA, 12345"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Smartphone Stand",
+                    "Price": "$30.00",
+                    "Quantity": 1,
+                    "Vendor": "GadgetTech",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Portable Charger",
+                    "Price": "$45.00",
+                    "Quantity": 1,
+                    "Vendor": "PowerGear",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Bluetooth Speaker",
+                    "Price": "$45.00",
+                    "Quantity": 1,
+                    "Vendor": "AudioTech",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "SummerTechSale_2023",
+            "Content": "TechSale_Ad2",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 333333,
+            "Order Number": 34567,
+            "Order Status": "Paid and Fulfilled",
+            "Payment Gateway": "paypal",
+            "Currency": "USD",
+            "Total Price": "$75.50",
+            "Total Shipping Price": "$8.00",
+            "Total Tax": "$7.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "1200 grams",
+            "Created At": "2023-07-30",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 444444,
+            "First Name": "Harsh",
+            "Last Name": "Sharma",
+            "Email": "purvi@example.com",
+            "Phone": "+1234567890",
+            "Default Address": "123 Oak Street, Villagetown, USA, 54321"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Harsh",
+            "Last Name": "Sharma",
+            "Address": "456 Elm Avenue, Suburbville, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Wireless Mouse",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "TechGear",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "USB-C Cable",
+                    "Price": "$10.00",
+                    "Quantity": 2,
+                    "Vendor": "CableCo",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Gaming Mouse Pad",
+                    "Price": "$20.00",
+                    "Quantity": 1,
+                    "Vendor": "GamerGear",
+                    "Fulfillment Status": "Fulfilled"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": 123456,
+            "Status": "Success",
+            "Tracking Company": "FedEx",
+            "Tracking Number": "FX987654321",
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "TechAccessoriesSale_2023",
+            "Content": "AccessorySale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    },
+    {
+        "Order Information": {
+            "Order ID": 444444,
+            "Order Number": 45678,
+            "Order Status": "Pending Payment",
+            "Payment Gateway": "stripe",
+            "Currency": "USD",
+            "Total Price": "$76.50",
+            "Total Shipping Price": "$6.00",
+            "Total Tax": "$5.50",
+            "Total Discounts": "$0.00",
+            "Total Weight": "1000 grams",
+            "Created At": "2023-08-20",
+            "Updated At": null
+        },
+        "Customer Information": {
+            "Customer ID": 555555,
+            "First Name": "Raj",
+            "Last Name": "Mehta",
+            "Email": "purvi@example.com",
+            "Phone": "+9876543210",
+            "Default Address": "789 Elm Street, Cityville, USA, 12345"
+        },
+        "Billing and Shipping Address": {
+            "First Name": "Raj",
+            "Last Name": "Mehta",
+            "Address": "456 Oak Avenue, Villageland, USA, 67890"
+        },
+        "Product Line Items": [
+            {
+                "Product": {
+                    "Name": "Portable Bluetooth Speaker",
+                    "Price": "$40.00",
+                    "Quantity": 1,
+                    "Vendor": "AudioTech",
+                    "Fulfillment Status": "Pending"
+                }
+            },
+            {
+                "Product": {
+                    "Name": "Wireless Keyboard",
+                    "Price": "$25.00",
+                    "Quantity": 1,
+                    "Vendor": "TechGear",
+                    "Fulfillment Status": "Pending"
+                }
+            }
+        ],
+        "Fulfillment Details": {
+            "Fulfillment ID": null,
+            "Status": "Not Fulfilled",
+            "Tracking Company": null,
+            "Tracking Number": null,
+            "Tracking URL": null
+        },
+        "Customer Journey Summary": {
+            "Campaign": "TechAccessoriesSale_2023",
+            "Content": "AccessorySale_Ad",
+            "Medium": "email",
+            "Source": "newsletter"
+        }
+    }
+]

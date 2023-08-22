@@ -1,0 +1,13 @@
+Customer ID,Customer Name,Recency (days),Last Purchase Date,Frequency,Monetary Value
+7.20435E+12,None None,75,05-06-2023,1,3
+7.03164E+12,Vipul Dabhi,10,09-08-2023,4,137.5
+7.05232E+12,Harshad Prajapati,25,25-07-2023,2,80.38
+987654321,Dhyey Vyas,10,09-08-2023,7,450.75
+7.05012E+12,Jai Mehta,10,09-08-2023,5,306
+876543210,Vraj Patel,56,24-06-2023,1,104.5
+246813579,Parth Shah,56,24-06-2023,1,66
+369258147,Parth Shah,40,10-07-2023,2,173
+222222,Purvi Vyas,101,10-05-2023,1,88.5
+333333,Dev Desai,65,15-06-2023,1,139
+444444,Harsh Sharma,20,30-07-2023,1,75.5
+555555,Raj Mehta,-1,20-08-2023,1,76.5
