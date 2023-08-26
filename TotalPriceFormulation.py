@@ -1,7 +1,7 @@
 import json
 
 # Read JSON data from a file
-with open('data28.json', 'r') as json_file:
+with open('updated_data28.json', 'r') as json_file:
     json_data = json.load(json_file)
 
 # Update "Total Price" based on the formula
