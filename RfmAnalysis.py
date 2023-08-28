@@ -4,7 +4,7 @@ import json
 import pandas as pd
 
 # Read JSON data from file
-with open("updated_data28.json", "r") as json_file:
+with open("updated_data28.json") as json_file:
     data = json.load(json_file)
 
 customer_data = defaultdict(list)

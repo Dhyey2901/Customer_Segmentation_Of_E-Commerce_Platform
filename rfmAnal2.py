@@ -46,5 +46,11 @@ rfm_df["M_Score"] = rfm_df["Monetary"].apply(lambda x: 1 if x >= quantiles["Mone
 # Calculate the RFM score by combining R, F, and M scores
 rfm_df["RFM_Score"] = rfm_df["R_Score"].astype(str) + rfm_df["F_Score"].astype(str) + rfm_df["M_Score"].astype(str)
 
+# Add "Customer ID" as the first column
+rfm_df.insert(0, "Customer ID", rfm_df.index)
+
 # Print the summarized RFM DataFrame
 print(rfm_df)
+
+# Save the summarized RFM DataFrame to a CSV file
+rfm_df.to_csv("rfm_data.csv", index=False)
