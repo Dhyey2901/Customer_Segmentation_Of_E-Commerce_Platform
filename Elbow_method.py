@@ -3,11 +3,11 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
 # Load normalized data from CSV file
-normalized_file = 'normalized_output.csv'
+normalized_file = 'rfm_data.csv'
 df_normalized = pd.read_csv(normalized_file)
 
 # Select columns for clustering
-columns_for_clustering = ["Recency (days)", "Frequency", "Monetary Value"]
+columns_for_clustering = ["Recency", "Frequency", "Monetary"]
 
 # Elbow method to find the optimal number of clusters
 inertia_values = []

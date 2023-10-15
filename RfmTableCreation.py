@@ -53,4 +53,4 @@ rfm_df.insert(0, "Customer ID", rfm_df.index)
 print(rfm_df)
 
 # Save the summarized RFM DataFrame to a CSV file
-rfm_df.to_csv("rfm_data.csv", index=False)
+rfm_df.to_csv("rfm_data2.csv", index=False)

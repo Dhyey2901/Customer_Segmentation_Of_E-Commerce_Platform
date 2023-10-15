@@ -9,7 +9,7 @@ import numpy as np
 data = pd.read_csv('rfm_data.csv')
 
 # Choose the number of clusters (K)
-num_clusters = 3  # You can adjust this as needed
+num_clusters = 4  # You can adjust this as needed
 
 # Perform KMeans clustering
 features = data[['Recency', 'Frequency', 'Monetary']]
@@ -23,7 +23,7 @@ ax = fig.add_subplot(111, projection='3d')
 # Scatter plot with annotations
 for i, row in data.iterrows():
     ax.scatter(row['Recency'], row['Frequency'], row['Monetary'], c=row['Cluster'], cmap='Set1', s=50)
-    ax.text(row['Recency'], row['Frequency'], row['Monetary'], row['Customer ID'], fontsize=8, ha='center', va='center')
+    ax.text(row['Recency'], row['Frequency'], row['Monetary'], str(int(row['Customer ID'])), fontsize=10, color='black', ha='left', va='bottom')
 
 # Plot convex hulls for clusters with sufficient points
 min_points_in_cluster = 4  # Minimum number of points to calculate convex hull
